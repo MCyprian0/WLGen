@@ -1,0 +1,2 @@
+# WLGen
+Personalized wordlist generator
